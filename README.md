@@ -4,17 +4,17 @@ This project focuses on exploratory data analysis (EDA) across multiple real-wor
 
 ---
 
-## 📁 Datasets
+##  Datasets
 
 The following datasets were analyzed:
 
-- 🛒 **Online Retail Dataset** — customer transactions and purchasing behavior
-- 🎬 **Netflix Titles Dataset** — movies and TV shows metadata
-- 🚗 **Car Price Dataset** — vehicle features and pricing
+-  **Online Retail Dataset** — customer transactions and purchasing behavior
+-  **Netflix Titles Dataset** — movies and TV shows metadata
+-  **Car Price Dataset** — vehicle features and pricing
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Python
 - Pandas
@@ -24,7 +24,7 @@ The following datasets were analyzed:
 
 ---
 
-## 📌 Key Steps
+##  Key Steps
 
 For each dataset:
 
@@ -36,26 +36,26 @@ For each dataset:
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
-### 🛒 Retail
+###  Retail
 - Identified top-selling products and high-revenue categories  
 - Observed seasonal purchasing trends  
 - Detected customer behavior patterns  
 
-### 🎬 Netflix
+###  Netflix
 - Analyzed distribution of content by genre and country  
 - Identified growth trends over time  
 - Compared movies vs TV shows  
 
-### 🚗 Cars
+###  Cars
 - Found correlations between price and features (engine size, mileage, brand)  
 - Identified factors influencing car prices  
 - Analyzed distribution of prices across categories  
 
 ---
 
-## 🧠 Skills Gained
+##  Skills Gained
 
 - Data cleaning and preprocessing  
 - Exploratory data analysis (EDA)  
@@ -65,9 +65,9 @@ For each dataset:
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Aizat Kenges**  
-📍 Almaty, Kazakhstan  
-📧 aizatkenges@gmail.com  
-🔗 GitHub: https://github.com/aizatkenges
+ Almaty, Kazakhstan  
+ aizatkenges@gmail.com  
+ GitHub: https://github.com/aizatkenges
